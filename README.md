@@ -2,6 +2,7 @@
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
+Python IDE with numpy and scipy libraries or colab.
 # Program
 ```
 # Experimental Verification of PCM and Demodulation
